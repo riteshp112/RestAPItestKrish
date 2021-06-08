@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rest API test</string>
+    <string name="trigger">Trigger</string>
+</resources>
